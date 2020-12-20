@@ -1,0 +1,7 @@
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\bin\Debug\20-1220.exe.config
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\bin\Debug\20-1220.exe
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\bin\Debug\20-1220.pdb
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\obj\Debug\20-1220.csprojAssemblyReference.cache
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\obj\Debug\20-1220.csproj.CoreCompileInputs.cache
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\obj\Debug\20-1220.exe
+C:\Users\Chanos\Desktop\git\PlayGround\20-1220\obj\Debug\20-1220.pdb
