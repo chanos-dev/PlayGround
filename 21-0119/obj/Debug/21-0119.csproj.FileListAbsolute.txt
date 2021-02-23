@@ -1,0 +1,10 @@
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\bin\Debug\21-0119.exe.config
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\bin\Debug\21-0119.exe
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\bin\Debug\21-0119.pdb
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\21-0119.csprojAssemblyReference.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\_21_0119.Form1.resources
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\_21_0119.Properties.Resources.resources
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\21-0119.csproj.GenerateResource.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\21-0119.csproj.CoreCompileInputs.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\21-0119.exe
+C:\Users\Chanos\Desktop\git\PlayGround\21-0119\obj\Debug\21-0119.pdb

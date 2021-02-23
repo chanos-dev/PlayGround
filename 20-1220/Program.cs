@@ -47,6 +47,8 @@ namespace _20_1220
             };
 
             FilterData(strs, "fs1000");
+
+
         }
 
         static void FilterData(IList list, string filter)

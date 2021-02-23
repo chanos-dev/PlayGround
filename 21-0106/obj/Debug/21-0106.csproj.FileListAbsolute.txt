@@ -1,0 +1,7 @@
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\bin\Debug\21-0106.exe.config
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\bin\Debug\21-0106.exe
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\bin\Debug\21-0106.pdb
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\obj\Debug\21-0106.csprojAssemblyReference.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\obj\Debug\21-0106.csproj.CoreCompileInputs.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\obj\Debug\21-0106.exe
+C:\Users\Chanos\Desktop\git\PlayGround\21-0106\obj\Debug\21-0106.pdb
