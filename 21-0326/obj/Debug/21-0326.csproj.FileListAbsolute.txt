@@ -1,0 +1,10 @@
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\bin\Debug\21-0326.exe.config
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\bin\Debug\21-0326.exe
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\bin\Debug\21-0326.pdb
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\obj\Debug\21-0326.csprojAssemblyReference.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\obj\Debug\21-0326.csproj.CoreCompileInputs.cache
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\obj\Debug\21-0326.csproj.CopyComplete
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\obj\Debug\21-0326.exe
+C:\Users\Chanos\Desktop\git\PlayGround\21-0326\obj\Debug\21-0326.pdb
