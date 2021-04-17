@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeControl", "NamedPipe\NamedPipeControl.csproj", "{8B274ABC-260F-493D-96C9-4FF6836F998D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F106FD85-360A-4E9D-A0E3-9C4A1FCED52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{6DF1A4CC-3166-445E-86F7-B0ABB997EE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B274ABC-260F-493D-96C9-4FF6836F998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B274ABC-260F-493D-96C9-4FF6836F998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B274ABC-260F-493D-96C9-4FF6836F998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B274ABC-260F-493D-96C9-4FF6836F998D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F106FD85-360A-4E9D-A0E3-9C4A1FCED52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F106FD85-360A-4E9D-A0E3-9C4A1FCED52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F106FD85-360A-4E9D-A0E3-9C4A1FCED52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F106FD85-360A-4E9D-A0E3-9C4A1FCED52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF1A4CC-3166-445E-86F7-B0ABB997EE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF1A4CC-3166-445E-86F7-B0ABB997EE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF1A4CC-3166-445E-86F7-B0ABB997EE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF1A4CC-3166-445E-86F7-B0ABB997EE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76EF44F-B59B-45EF-AEB1-4DAC07B08E20}
+	EndGlobalSection
+EndGlobal
